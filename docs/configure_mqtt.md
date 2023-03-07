@@ -13,7 +13,7 @@ Change the topic to something unique for your panel, you will need this topic la
 
 For the app to work you need a working MQTT Configuration in AppDaemon. Please add the configuration of your mqtt server, user and password to your existing `appdaemon.yaml` Restart your AppDaemon Container (not HomeAssistant) after adding the MQTT Configuration.
 
-You will find this file in the following location: `config/appdaemon/appdeamon.yaml`
+You will find this file in the following location: `config/appdaemon/appdaemon.yaml`
 
 ```yaml
 ---
